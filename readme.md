@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ### 3. Configure API Keys
 This project requires the following keys:
-- **OpenAI API Key**: For generating strategic recommendations.
+- **Groq API Key**: For generating strategic recommendations.
 - **Slack Webhook URL**: For sending notifications.
 
 ### Steps:
